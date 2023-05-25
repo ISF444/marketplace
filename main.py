@@ -1,4 +1,5 @@
 print("Hello GitHub!")
-
+b = 4
 a = 1
-print(a)
+c = a + b
+print(c)
